@@ -15,7 +15,7 @@ function AboutCard() {
             I am a recent B.Tech. graduate from Chaibasa Engineering College branch being Computer Science and Engineering. <span className="purple"> CGPA:8.47 </span>
             <br />
             <br />
-            I completed my Higher Secondary from D.A.V. Public School Hehal, Ranchi, Jharkhand stream being Pure Science. Scored <span className="purple"> 84.2% </span>
+            I completed my Higher Secondary from D.A.V. Public School Hehal, Ranchi, stream being Pure Science. Scored <span className="purple"> 84.2% </span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
