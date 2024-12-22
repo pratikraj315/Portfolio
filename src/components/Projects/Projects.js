@@ -8,7 +8,7 @@ import snappy from "../../Assets/Projects/snappy.png";
 
 import printify from "../../Assets/Projects/printify.png";
 import chatapp from "../../Assets/Projects/chatapp.png";
-import hirrd from "../../Assets/Projects/hirrd.jpg;
+import hirrd from "../../Assets/Projects/hirrd.jpg";
 
 
 function Projects() {
@@ -71,7 +71,7 @@ function Projects() {
             <ProjectCard
               imgPath={hirrd}
               isBlog={false}
-              title="Hirrd - Job Portal"
+              title="Hirrd-Job Portal"
               description="A feature-rich job portal platform designed to streamline job posting, search, and application processes. Built with ReactJS, Supabase, Clerk, Radix UI, and Tailwind CSS, the platform offers a seamless user experience. Secure user authentication and authorization were implemented using Clerk, ensuring robust security. Real-time database management with Supabase enables efficient job listing updates and smooth data handling. The project emphasizes dynamic UI/UX and responsive design, leveraging modern tools like Git and VS Code to ensure high-quality development and code management."
             
               ghLink="https://github.com/pratikraj315/Hirrd---Job-Portal"
