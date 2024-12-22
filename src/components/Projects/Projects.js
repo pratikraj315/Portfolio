@@ -8,6 +8,7 @@ import snappy from "../../Assets/Projects/snappy.png";
 
 import printify from "../../Assets/Projects/printify.png";
 import chatapp from "../../Assets/Projects/chatapp.png";
+import hirrd from "../../Assets/Projects/hirrd.jpg;
 
 
 function Projects() {
@@ -66,17 +67,17 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={hirrd}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              title="Hirrd - Job Portal"
+              description="A feature-rich job portal platform designed to streamline job posting, search, and application processes. Built with ReactJS, Supabase, Clerk, Radix UI, and Tailwind CSS, the platform offers a seamless user experience. Secure user authentication and authorization were implemented using Clerk, ensuring robust security. Real-time database management with Supabase enables efficient job listing updates and smooth data handling. The project emphasizes dynamic UI/UX and responsive design, leveraging modern tools like Git and VS Code to ensure high-quality development and code management."
+            
+              ghLink="https://github.com/pratikraj315/Hirrd---Job-Portal"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col> */}
+          </Col> 
         </Row>
       </Container>
     </Container>
